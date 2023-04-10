@@ -16,3 +16,6 @@ Sprocket Central Pty Ltd has given us a new list of 1000 potential customers wit
 
 **Task 3 :**
 Please develop a dashboard that we can present to the client at our next meeting. Display your data summary and results of the analysis in a dashboard.
+
+### Dashboard :
+![Task_3-Dashboard_Image](https://user-images.githubusercontent.com/101797651/230880234-df38e5f8-2b91-424b-b4fd-193b85083fab.jpg)
