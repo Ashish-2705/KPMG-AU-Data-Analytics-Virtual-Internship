@@ -1,5 +1,9 @@
 # **KPMG-AU-Data-Analytics-Virtual-Internship**
-Sprocket Central Pty Ltd , a medium size bikes &amp; cycling accessories organisation, has approached Tony Smith (Partner) in KPMG’s Lighthouse &amp; Innovation Team. Sprocket Central Pty Ltd  is keen to learn more about KPMG’s expertise in its Analytics, Information &amp; Modelling team. 
+![KPMG-inside-sherpa-thumb](https://user-images.githubusercontent.com/101797651/230879856-ed6b038d-0f40-48a6-91d5-ad927138514c.jpg)
+
+### Analytics Overview :
+
+**Sprocket Central Pty Ltd** , a medium size bikes &amp; cycling accessories organisation, has approached Tony Smith (Partner) in KPMG’s Lighthouse &amp; Innovation Team. Sprocket Central Pty Ltd  is keen to learn more about KPMG’s expertise in its Analytics, Information &amp; Modelling team. 
 The client provided KPMG with 3 datasets: **Customer Demographic, Customer Addresses, Transactions data** in the past 3 months.
 
 **Task 1 :**
