@@ -4,7 +4,7 @@
 ### Analytics Overview :
 
 **Sprocket Central Pty Ltd** , a medium size bikes &amp; cycling accessories organisation, has approached Tony Smith (Partner) in KPMG’s Lighthouse &amp; Innovation Team. Sprocket Central Pty Ltd  is keen to learn more about KPMG’s expertise in its Analytics, Information &amp; Modelling team. 
-The client provided KPMG with 3 datasets in the past 3 months : 
+The client provided KPMG with 3 datasets in the past 3 months : </br>
 **1. Customer Demographic**</br>
 **2. Customer Addresses**</br>
 **3. Transactions data**</br> 
