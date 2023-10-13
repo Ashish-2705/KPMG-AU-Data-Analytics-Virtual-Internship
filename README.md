@@ -10,7 +10,7 @@ The client provided KPMG with 3 datasets in the past 3 months : </br>
 **3. Transactions data**</br> 
 
 **Task 1 :**
-Revew the data quality to ensure that it is ready for our analysis in phase two. Draft an email to the client identifying the data quality issues and strategies to mitigate these issues.
+Review the data quality to ensure that it is ready for our analysis in phase two. Draft an email to the client identifying the data quality issues and strategies to mitigate these issues.
 
 **Task 2 :**
 Sprocket Central Pty Ltd has given us a new list of 1000 potential customers with their demographics and attributes. However, these customers do not have prior transaction history with the organisation. 
